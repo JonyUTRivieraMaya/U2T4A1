@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 560px;
+}
+div.returnaddress{
+    float: left;
+    margin-right: 360px ;
+}
+div.reciever{
+    float: right;
+    margin-right: 120px;
+}
+p{
+    margin: 50px;
+}
